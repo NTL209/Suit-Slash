@@ -116,7 +116,7 @@
 
         <!-- TẦNG 1: KHU VỰC BOSS -->
         <StackPanel Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <TextBlock x:Name="txtBossName" Text="BOSS: VUA SÒNG BẠC" Foreground="#FFD54F" 
+            <TextBlock x:Name="txtBossName" Text="BOSS: VUA BỊP" Foreground="#FFD54F"
                        FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,8"/>
 
             <!-- Khung hình ảnh Boss -->
